@@ -1,7 +1,7 @@
 [
     {
-        "remote":       "aospa",
-        "repository":   "AOSPA/android_device_xiaomi_alioth",
+        "remote":       "github",
+        "repository":   "PA-GK/android_device_xiaomi_alioth",
         "target_path":  "device/xiaomi/alioth",
         "revision":     "topaz"
     },
@@ -12,8 +12,8 @@
         "revision":     "topaz"
     },
     {
-        "remote":       "blobs",
-        "repository":   "proprietary_vendor_xiaomi",
+        "remote":       "gitlab",
+        "repository":   "pa-gk/proprietary_vendor_xiaomi",
         "target_path":  "vendor/xiaomi",
         "revision":     "topaz",
         "clone-depth":  "1"
